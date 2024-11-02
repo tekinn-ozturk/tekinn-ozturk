@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Tekin Ozturk</h1>
-<h2 align="center">ASP.NET Core & ReactJS</h2>
+<h2 align="center">ASP.NET Core & ReactJS & Selenium </h2>
 
 
 <h3 align="center">Languages and Tools:</h3>
